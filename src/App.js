@@ -3,7 +3,7 @@ import { Officers } from './components/officers';
 import { Home } from './components/home'
 import './components/styles.css'
 import ReactDOM from "react-dom/client";
-import {navbar} from './components/navbar';
+import {navbar} from './components/navbar'
 import {
   BrowserRouter,
   Routes,
@@ -13,8 +13,6 @@ import {
 
 function App() {
   return (
-
-    
     <div className='App'>
       <navbar/>
       <BrowserRouter>

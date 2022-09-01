@@ -1,18 +1,17 @@
-import React from 'react';
-import {  Link } from "react-router-dom";
+import { Navbar, Nav, Container } from 'react-bootstrap';
 
+const navbar = () => {
 
-export const navbar = (props) => {
-  return (
-    
-    <div>
-      
-    <li>
-      <Link to="/">Home</Link>
-    </li>
-    <li>
-      <Link to="/officers">Officers</Link>
-    </li>
-  </div>
-  )
+  <>
+      <Navbar>
+        <Container>
+          <Nav>
+            <Nav.link href ='/'>Home</Nav.link>
+            <Nav.link href ='/officers'> Officers</Nav.link>
+          </Nav>
+        </Container>
+      </Navbar>
+  </>
 }
+
+export default navbar
