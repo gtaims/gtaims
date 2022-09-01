@@ -1,0 +1,114 @@
+/* General */
+html {
+    background-color: #d6f3ff;
+}
+
+
+/* Footer */
+
+.footer {
+    background-color: #A8E5FF;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.club-text {
+    color: #4E5961;
+    font-size: 14px;
+    margin-top: 1em;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.footer > .links div {
+    margin: 0.5em;
+    line-height: 200%;
+    color: #4E5961;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.slack {
+    margin: 0.5em;
+    width: 30px;
+}
+
+/* Home */
+
+.home {
+    color: #4E5961;
+    margin-top:80px
+}
+
+.header {
+    margin-bottom: 60px;
+}
+
+
+.boxed {
+    max-width: 700px;
+    margin: auto;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #4E5961;
+    margin-bottom: 40px;
+    padding: 10px;
+
+}
+
+.logo {
+    margin: 0.5em;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+
+}
+    
+
+   
+
+/* Officers */
+
+.officers {
+    color: #4E5961;
+}
+
+.officer-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.officer-row {
+    text-align: left;
+    /* width: 35vw; */
+    margin-bottom: 2em;
+}
+
+.role {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+    color: #26BEFF;
+    font-size: 20px;
+}
+
+.name {
+    font-weight: bold;
+    margin-bottom: 0.25em;
+}
+
+.description {
+    font-size: 14px;
+}
