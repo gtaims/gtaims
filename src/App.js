@@ -3,7 +3,10 @@ import { Officers } from './components/officers';
 import { Home } from './components/home'
 import './components/styles.css'
 import ReactDOM from "react-dom/client";
-import {navbar} from './components/navbar'
+import Navbar from './components/Navbar';
+
+
+
 import {
   BrowserRouter,
   Routes,
@@ -13,9 +16,10 @@ import {
 
 function App() {
   return (
-    <div className='App'>
-      <navbar/>
+
       <BrowserRouter>
+      
+      <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/officers" element = {<Officers />} />
@@ -23,7 +27,6 @@ function App() {
 
       </BrowserRouter>
 
-    </div>
   );
 }
 
