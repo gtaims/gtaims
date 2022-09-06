@@ -12,4 +12,4 @@ export const Footer = (props) => {
             <div className='club-text'>A.I.M.S. at GT, 2022.</div>
         </div>
     )
-}
+};

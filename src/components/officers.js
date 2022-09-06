@@ -63,4 +63,4 @@ export const Officers = (props) => {
             <Footer/>
         </div>
     )
-}
+};
