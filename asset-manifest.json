@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gtaims.github.io/static/css/main.3d07bc28.css",
-    "main.js": "/gtaims.github.io/static/js/main.345a85c2.js",
-    "static/js/787.e80604e9.chunk.js": "/gtaims.github.io/static/js/787.e80604e9.chunk.js",
-    "static/media/aims-logo.png": "/gtaims.github.io/static/media/aims-logo.4d74e7602b11b7cdfd62.png",
-    "index.html": "/gtaims.github.io/index.html",
-    "main.3d07bc28.css.map": "/gtaims.github.io/static/css/main.3d07bc28.css.map",
-    "main.345a85c2.js.map": "/gtaims.github.io/static/js/main.345a85c2.js.map",
-    "787.e80604e9.chunk.js.map": "/gtaims.github.io/static/js/787.e80604e9.chunk.js.map"
+    "main.css": "/static/css/main.3d07bc28.css",
+    "main.js": "/static/js/main.b985f102.js",
+    "static/js/787.e80604e9.chunk.js": "/static/js/787.e80604e9.chunk.js",
+    "static/media/aims-logo.png": "/static/media/aims-logo.4d74e7602b11b7cdfd62.png",
+    "index.html": "/index.html",
+    "main.3d07bc28.css.map": "/static/css/main.3d07bc28.css.map",
+    "main.b985f102.js.map": "/static/js/main.b985f102.js.map",
+    "787.e80604e9.chunk.js.map": "/static/js/787.e80604e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d07bc28.css",
-    "static/js/main.345a85c2.js"
+    "static/js/main.b985f102.js"
   ]
 }
