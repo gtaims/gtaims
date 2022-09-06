@@ -5,7 +5,7 @@ export const Footer = (props) => {
         <div className="footer">
             <div className='links'>
                 <div>
-                    Check out our Slack!    
+                    Join our Slack!    
                 </div>
                 <a href='https://aimsatgt.slack.com/' target={'_blank'}><img src={slack} className="slack" alt="logo" /></a>
             </div>

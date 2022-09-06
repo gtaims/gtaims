@@ -13,9 +13,6 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    position:fixed;
-    bottom:0px;
-    width: 100%;
 }
 
 .club-text {
@@ -55,6 +52,8 @@ html {
 .header {
     margin-bottom: 60px;
     text-align: center;
+    margin-right: 2em;
+    margin-left: 2em;
 }
 
 
@@ -66,7 +65,13 @@ html {
     border-color: #4E5961;
     margin-bottom: 40px;
     padding: 10px;
+}
 
+@media (max-width: 780px) {
+    .boxed {
+        margin-left: 2em;
+        margin-right: 2em;
+    }
 }
 
 .logo {
@@ -88,14 +93,12 @@ html {
 .officer-grid {
     display: flex;
     flex-direction: column;
-    align-items: center;
     margin-left: 5em;
     margin-right: 5em;
 }
 
 .officer-row {
-    text-align: left;
-    /* width: 35vw; */
+    text-align: center;
     margin-bottom: 2em;
 }
 

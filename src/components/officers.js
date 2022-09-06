@@ -2,7 +2,7 @@ import { Footer } from "./footer"
 export const Officers = (props) => {
     return (
         <div className="officers">
-            <h1 className="headerO">Current Officers</h1>
+            <h1 className="headerO">Officers</h1>
             <div className="officer-grid">
                 <div className="officer-row">
                     <div className="role">
@@ -12,7 +12,7 @@ export const Officers = (props) => {
                         Ethan Kim
                     </div>
                     <div className="description">
-                        CS Major, Class of 2024, Interests: XAI, Computer Vision 
+                        CS, C/O 2024, Interests: Multimodal Learning, Computer Vision
                     </div>
                 </div>
                 <div className="officer-row">
@@ -23,7 +23,7 @@ export const Officers = (props) => {
                         Lan Lan
                     </div>
                     <div className="description">
-                        CS Major, Class of 2024, Interests: XAI, Computer Vision 
+                        BMED, C/O 2023, Interests: Wearable Technologies 
                     </div>
                 </div>
                 <div className="officer-row">
@@ -34,7 +34,7 @@ export const Officers = (props) => {
                         Harshika Gelivi
                     </div>
                     <div className="description">
-                        CS Major, Class of 2024, Interests: XAI, Computer Vision 
+                        CS, C/O 2025, Interests: Medical Image Processing/Analysis, Anime
                     </div>
                 </div>
                 <div className="officer-row">
@@ -45,7 +45,7 @@ export const Officers = (props) => {
                         Drew Lawton
                     </div>
                     <div className="description">
-                        CS Major, Class of 2024, Interests: XAI, Computer Vision 
+                        CS, C/O 2025, Interests: Data Science, Running
                     </div>
                 </div>
                 <div className="officer-row">
@@ -56,7 +56,7 @@ export const Officers = (props) => {
                         Abhinav
                     </div>
                     <div className="description">
-                        CS Major, Class of 2024, Interests: XAI, Computer Vision 
+                        CS, C/O 2024, Interests: Explainable AI, Computer Vision 
                     </div>
                 </div>
             </div>
