@@ -13,12 +13,16 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    position:fixed;
+    bottom:0px;
+    width: 100%;
 }
 
 .club-text {
     color: #4E5961;
     font-size: 14px;
     margin-top: 1em;
+    text-align: center;
 }
 
 .links {
@@ -41,6 +45,39 @@ html {
     width: 30px;
 }
 
+/* Home */
+
+.home {
+    color: #4E5961;
+    margin-top:80px
+}
+
+.header {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+
+.boxed {
+    max-width: 700px;
+    margin: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #4E5961;
+    margin-bottom: 40px;
+    padding: 10px;
+
+}
+
+.logo {
+    margin: 0.5em;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+
+}
 
 /* Officers */
 
@@ -76,4 +113,8 @@ html {
 
 .description {
     font-size: 14px;
+}
+
+.headerO {
+    text-align: center;
 }

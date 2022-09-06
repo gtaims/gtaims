@@ -1,9 +1,8 @@
-
 import { Footer } from "./footer"
 export const Officers = (props) => {
     return (
         <div className="officers">
-            <h1>Current Officers</h1>
+            <h1 className="headerO">Current Officers</h1>
             <div className="officer-grid">
                 <div className="officer-row">
                     <div className="role">
@@ -64,4 +63,4 @@ export const Officers = (props) => {
             <Footer/>
         </div>
     )
-}
+};
