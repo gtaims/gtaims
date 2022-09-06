@@ -8,7 +8,7 @@ import Navbar from './components/Navbar';
 
 
 import {
-  BrowserRouter,
+  HashRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
@@ -17,15 +17,13 @@ import {
 function App() {
   return (
 
-      <BrowserRouter>
-      
+      <Router>
       <Navbar />
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/officers" element = {<Officers />} />
         </Routes>
-
-      </BrowserRouter>
+      </Router>
   );
 }
 
