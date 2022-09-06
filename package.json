@@ -1,7 +1,7 @@
 {
-  "name": "gtaims.github.io",
+  "name": "gtaims",
   "version": "0.1.0",
-  "homepage": "http://gtaims.github.io/",
+  "homepage": "http://gtaims.github.io/gtaims",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
