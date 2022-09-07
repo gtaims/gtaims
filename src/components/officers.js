@@ -53,7 +53,7 @@ export const Officers = (props) => {
                         Public Relations Officer
                     </div>
                     <div className="name">
-                        Abhinav
+                        Abhinav Sattiraju
                     </div>
                     <div className="description">
                         CS, C/O 2024, Interests: Explainable AI, Computer Vision 
