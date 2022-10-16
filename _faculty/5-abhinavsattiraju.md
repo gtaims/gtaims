@@ -1,15 +1,14 @@
 ---
 name: Abhinav Sattiraju
-lab: 
-image: /assets/images/faculty/jamesfoley.png
-website: 
-email: foley@cc.gatech.edu
-linkedin: https://www.linkedin.com/in/jifoley/
-twitter: 
-role: Public Relations 
+lab:
+image: /assets/images/faculty/AbhinavSattiraju.png
+website:
+email: asattiraju3@gatech.edu
+linkedin: https://www.linkedin.com/in/abhinavsattiraju/
+twitter:
+role: Public Relations
 type: "core"
 keywords:
-    - Explainable AI
-    - Computer Vision
-
+  - Explainable AI
+  - Computer Vision
 ---
