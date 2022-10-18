@@ -44,7 +44,7 @@
 
 .filter .active-selection {
     opacity: 1;
-    border-bottom: 2px solid #F0B310;
+    border-bottom: 2px solid #ADD8E6;
     display: inline-block;
     line-height: 2em;
 }

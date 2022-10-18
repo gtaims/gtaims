@@ -1,11 +1,8 @@
 ---
 name: Lan Lan
-lab: VA Lab,
-image: /assets/images/faculty/alexendert.png
-website: http://va.gatech.edu/endert/
-email: endert@gatech.edu
-linkedin: 
-twitter: https://twitter.com/EndertAlex
+image: /assets/images/faculty/lanlan.jpeg
+email: llan6@gatech.edu
+linkedin: https://www.linkedin.com/in/lan-lan-815764192
 role: Vice President
 type: "core"
 keywords:

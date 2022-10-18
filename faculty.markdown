@@ -3,8 +3,8 @@ layout: page
 image_header: 
 intro: 
 title: Officers
-headtitle: Officers | Georgia Tech Visualization Lab
-permalink: /faculty/
+headtitle: Officers | The Artificial Intelligence for Medicine and Healthcare Society
+permalink: /officers/
 ---
 <div id="faculty" class="row">
     {% assign core-faculty = site.faculty | where_exp:"faculty",

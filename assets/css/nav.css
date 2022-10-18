@@ -9,7 +9,7 @@
 
 #nav .active {
     opacity: 1;
-    border-bottom: 2px solid #F0B310;
+    border-bottom: 2px solid #ADD8E6;
     display: inline-block;
     line-height: 2em;
 }
@@ -43,7 +43,7 @@
 
 #hamburger-button i {
     font-size: 1em;
-    color: #F0B310;
+    color: #ADD8E6;
 }
 
 #ham-logo {
@@ -74,11 +74,11 @@
 }
 
 .bottom-border {
-    border-bottom: 2px solid #F0B310;
+    border-bottom: 2px solid #ADD8E6;
 }
 
 .expanded-menu {
-    border-bottom: 2px solid #F0B310 !important;
+    border-bottom: 2px solid #ADD8E6 !important;
 }
 
 .back-white {

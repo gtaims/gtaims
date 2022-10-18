@@ -1,12 +1,9 @@
 ---
 name: Harshika Gelivi
-lab: Polo Club of Data Science,
-image: /assets/images/faculty/polochau.png
-website: https://www.cc.gatech.edu/~dchau/
-email: polo@gatech.edu
-linkedin: https://www.linkedin.com/in/polochau/
-twitter: https://twitter.com/PoloChau
-role: Associate Professor
+image: /assets/images/faculty/harshikagelivi.jpeg
+email: hgelivi3@gatech.edu
+linkedin: https://www.linkedin.com/in/harshika-gelivi
+role: Treasurer
 type: "core"
 keywords:
     - Medical Image Processing/Analysis

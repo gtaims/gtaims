@@ -1,21 +1,21 @@
-# Welcome to the GT VIS Lab Website
+# Welcome to the GT AIMS Website
 
-title: Georgia Tech Visualization Lab
-tagline: The Home for Visualization Research at the Georgia Institute of Technology.
-email: gtvislab@gmail.com
+title:  The Artificial Intelligence for Medicine and Healthcare Society
+tagline:  The Artificial Intelligence for Medicine and Healthcare Society.
+email: aimsatgt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Our mission is to empower everyone to analyze and communicate data with interactive systems. The team is made up of four groups that lead visualization research in Information Visualization, Human-Computer Interaction, Visual Analytics, and Geographic Information Systems.
+  We are dedicated to (1) helping one another become the next generation of leaders within the field of AI for healthcare and medicine, (2) to helping curious students learn more about the field, and (3) to broadly creating a strong community around the field at Georgia Tech.
 baseurl: "" # the subpath of your site
 url: https://gtaims.github.io
 locale: en_US
 github: "https://github.com/gtaims"
 twitter:
   card: summary_large_image
-  username: GT_Vis
+  username: aimsatgt
 google_analytics: G-6V9MFRB4SQ
-logo: /assets/images/logo_bluegold_aspect_2_1.png
+logo: /assets/images/AIMS-long.png
 author: 
-  twitter: GT_Vis
+  twitter: aimsatgt
 
 collections:
   groups:

@@ -1,11 +1,8 @@
 ---
 name: Drew Lawton
-lab: Information Interfaces Group,
-image: /assets/images/faculty/johnstasko.png
-website: https://www.cc.gatech.edu/~john.stasko/
-email: stasko@cc.gatech.edu
-linkedin: https://www.linkedin.com/in/johnstasko/
-twitter: https://twitter.com/@johntstasko
+image: /assets/images/faculty/drewlawton.jpeg
+email: alawton6@gatech.edu
+linkedin: https://www.linkedin.com/in/drewmlawton
 role: Secretary
 type: "core"
 keywords:

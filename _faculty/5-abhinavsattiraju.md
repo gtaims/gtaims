@@ -1,11 +1,8 @@
 ---
 name: Abhinav Sattiraju
-lab: 
-image: /assets/images/faculty/jamesfoley.png
-website: 
-email: foley@cc.gatech.edu
-linkedin: https://www.linkedin.com/in/jifoley/
-twitter: 
+image: /assets/images/faculty/abhinavsattiraju.jpeg
+email: asattiraju3@gatech.edu
+linkedin: https://www.linkedin.com/in/abhinavsattiraju/
 role: Public Relations 
 type: "core"
 keywords:

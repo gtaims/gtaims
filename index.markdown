@@ -1,7 +1,7 @@
 ---
 layout: page
 image: /assets/images/logo_bluegold_aspect_2_1.png
-image_header: /assets/images/aims-logo.png
+image_header: /assets/images/AIMS-long.png
 title: # Leave it blank
 headtitle: Home | The Artificial Intelligence for Medicine and Healthcare Society
 permalink: /
@@ -15,9 +15,6 @@ permalink: /
       </p>
       <p>
         To our knowledge, we are the first student organization in our field in the country. As an organization of both undergraduate and graduate students, we are dedicated to (1) helping one another become the next generation of leaders within the field of AI for healthcare and medicine, (2) to helping curious students learn more about the field, and (3) to broadly creating a strong community around the field at Georgia Tech.
-      </p>
-      <p>
-      <div id="scroll-text"><i class="fa fa-arrow-down"></i>&nbsp;&nbsp;Scroll to see more!&nbsp;&nbsp;<i class="fa fa-arrow-down"></i></div>
       </p>
     </div>
     <!-- <div class="col-lg-1"></div> -->
@@ -34,69 +31,44 @@ permalink: /
   </div>
   <div class="vspace-lg"></div>
 
-  <div class="row">
+  <div class="row justify-content-center">
       <div class="col-lg-3 col-md-12 col-sm-12">
         <div class="card">
-        <a target="_blank" href="{{ group.website }}">
           <div class="card-body">
             <h5 class="group-name text-center">
-                Activities 1
+                Speaker <br> events
             </h5>
             <div class="card-text">              
               <hr>
-              <h2 class="group-professor">yes </h2>
-              Description
+              Each semester, we host 3+ speaker events from industry and academia! In the past year, we had talks from companies like Illumina, Surgical Intuitive, and Caption Health. 
             </div>
           </div>
-          </a>
         </div>
       </div>
       <div class="col-lg-3 col-md-12 col-sm-12">
         <div class="card">
-        <a target="_blank" href="{{ group.website }}">
           <div class="card-body">
             <h5 class="group-name text-center">
-                Activities 2
+                AI for Medicine Bootcamp
             </h5>
             <div class="card-text">              
               <hr>
-              <h2 class="group-professor">yes </h2>
-              Description
+              With our self-paced bootcamp, you will gain experience applying machine learning to problems in medicine and healthcare. 
             </div>
           </div>
-          </a>
         </div>
       </div>
       <div class="col-lg-3 col-md-12 col-sm-12">
         <div class="card">
-        <a target="_blank" href="{{ group.website }}">
           <div class="card-body">
             <h5 class="group-name text-center">
-                Activities 3
+                Networking Events
             </h5>
             <div class="card-text">              
               <hr>
-              <h2 class="group-professor">yes </h2>
-              Description
+              Meet and connect with other students interested in the field! 
             </div>
           </div>
-          </a>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-12 col-sm-12">
-        <div class="card">
-        <a target="_blank" href="{{ group.website }}">
-          <div class="card-body">
-            <h5 class="group-name text-center">
-                Activities 4
-            </h5>
-            <div class="card-text">              
-              <hr>
-              <h2 class="group-professor">yes </h2>
-              Description
-            </div>
-          </div>
-          </a>
         </div>
       </div>
 

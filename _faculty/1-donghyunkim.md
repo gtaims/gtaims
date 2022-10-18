@@ -1,11 +1,8 @@
 ---
 name: Donghyun (Ethan) Kim
-lab: Friendly Cities Lab,
-image: /assets/images/faculty/clioandris.png
-website: https://planning.gatech.edu/people/clio-andris
+image: /assets/images/faculty/ethankim.jpeg
 email: dkim907@gatech.edu
-linkedin: https://www.linkedin.com/in/clio-andris-95874146/
-twitter: https://twitter.com/urbanclio
+linkedin: https://www.linkedin.com/in/donghyun-ethan-kim/
 role: President
 type: "core"
 keywords:

@@ -3,7 +3,7 @@ layout: page
 image_header:
 intro: 
 title: News and Events
-headtitle: News and Events | Georgia Tech Visualization Lab
+headtitle: News and Events | The Artificial Intelligence for Medicine and Healthcare Society
 permalink: /news/
 ---
 <div class="vspace-md-fixed"></div>
