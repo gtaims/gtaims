@@ -11,14 +11,9 @@
     "url": "git+https://github.com/gtaims/gtaims.github.io.git"
   },
   "keywords": [
-    "Georgia Tech Visualization Lab",
-    "VA Lab",
-    "Friendly Cities Lab",
-    "Polo Club of Data Science",
-    "Information Interfaces Group",
     "Georgia Institute of Technology"
   ],
-  "homepage": "https://github.com/gtvis/gtvis.github.io#readme",
+  "homepage": "https://github.com/gtaims/gtaims.github.io#readme",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
