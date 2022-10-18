@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/images/logo_bluegold_aspect_2_1.png
+image: /assets/images/AIMS-long.png
 image_header: /assets/images/AIMS-long.png
 title: # Leave it blank
 headtitle: Home | The Artificial Intelligence for Medicine and Healthcare Society
